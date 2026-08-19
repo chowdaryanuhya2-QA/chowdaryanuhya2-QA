@@ -42,4 +42,4 @@ Building and scaling test automation for web, mobile, API, and microservices-bas
 
 ### 📫 Get in touch
 
-📧 anuhyav04@gmail.com &nbsp;
+📧 chowdaryanuhya2@gmail.com &nbsp;
