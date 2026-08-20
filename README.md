@@ -5,6 +5,10 @@
 Building and scaling test automation for web, mobile, API, and microservices-based applications across healthcare, financial services, and large-scale retail platforms.
 </p>
 
+<p align="center">
+🌐 <a href="https://claude.ai/code/artifact/f78b91b1-8e72-4a4a-8d3b-62f3eaf66daa">Portfolio</a>
+</p>
+
 ---
 
 ### About me
@@ -42,4 +46,4 @@ Building and scaling test automation for web, mobile, API, and microservices-bas
 
 ### 📫 Get in touch
 
-📧 chowdaryanuhya2@gmail.com &nbsp;
+📧 chowdaryanuhya2@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://claude.ai/code/artifact/f78b91b1-8e72-4a4a-8d3b-62f3eaf66daa)
